@@ -9,7 +9,7 @@
 ## Results
 - How many Vine reviews and non-Vine reviews were there?
     - There are total of 170 Vine reviews
-    
+![Text to Column](https://github.com/Hanitapatel/bikesharing/blob/main/Resources/NYC%20Citybike%20analysis%20outcome%20story.png)
     - There are total of 37,840 non-Vine reviews
  
 
